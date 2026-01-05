@@ -20,7 +20,7 @@ GA4 → BigQuery (raw events) → SQL transformations → Looker Studio dashboar
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](dashboards/executive_summary.jpg)
+![Executive Summary](dashboards/excutive_summary_.jpg)
 
 ### User & Traffic Analysis
 ![User Traffic](dashboards/event&traffic.jpg)
@@ -29,7 +29,10 @@ GA4 → BigQuery (raw events) → SQL transformations → Looker Studio dashboar
 ![Performance Revenue](dashboards/performance&revenue.jpg)
 
 ### User Demographics & Technology
-![User Demographics](dashboards/user_demogr...ics_&_tech.jpg)
+![User Demographics](dashboards/user_demographics_&_tech.jpg)
+
+### User Summary
+![User Summary](dashboards/user_summary.jpg)
 
 ## Skills Demonstrated
 - GA4 data modeling
