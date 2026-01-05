@@ -25,8 +25,6 @@ GA4 → BigQuery (raw events) → SQL transformations → Looker Studio dashboar
 ### User & Traffic Analysis
 ![User Traffic](dashboards/event&traffic.jpg)
 
-### Performance & Revenue
-![Performance Revenue](dashboards/performance&revenue.jpg)
 
 ### User Demographics & Technology
 ![User Demographics](dashboards/user_demographics_&_tech.jpg)
