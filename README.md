@@ -33,9 +33,3 @@ GA4 → BigQuery (raw events) → SQL transformations → Looker Studio dashboar
 
 ### User Summary
 ![User Summary](dashboards/user_summary.jpg)
-
-## Skills Demonstrated
-- GA4 data modeling
-- BigQuery SQL (UNNEST, SAFE_DIVIDE)
-- Analytics engineering
-- Dashboard storytelling
